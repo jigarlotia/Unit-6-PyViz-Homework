@@ -8,7 +8,7 @@ The Homework consists of 2 main parts:
 
 The analysis uses the HVPlot and Plotly Express in addition to [Mapbox API](https://www.mapbox.com/) to perform the fundamental analysis for the Toronto dwellings market to allow potential real estate investors to choose rental investment properties.
 
-The analysis for the notebook can be found [here](Notebooks/Analysis/rental_analysis.ipynbrental_analysis.ipynb).  As a back up, [HTML version](Notebooks/Analysis/rental_analysis.html) of notebook has also been updated due issues in rendering of HVPlot on GitHub.
+The analysis for the notebook can be found [here](Notebooks/Analysis/rental_analysis.ipynb).  As a back up, [HTML version](Notebooks/Analysis/rental_analysis.html) of notebook has also been updated due issues in rendering of HVPlot on GitHub.
 
 ## Interactive Dashboard
 
